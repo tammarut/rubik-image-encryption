@@ -1,4 +1,4 @@
-# Image Cryptography Based on Rubix's Cube Principle
+# Image Cryptography Based on Rubix's Cube Principles(not update readme yet!)
 
 Implementation of image encryption and decryption using Rubix's Cube Principle. This algorithm is based on 
 the paper which can be found at https://www.hindawi.com/journals/jece/2012/173931/
